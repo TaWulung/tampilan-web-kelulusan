@@ -47,7 +47,9 @@ body {
     align-items: center;
     height: 80vh;
     flex-direction: column;
+    padding: 1,4rem 8%;
 }
+
 
 .a-content{
 
