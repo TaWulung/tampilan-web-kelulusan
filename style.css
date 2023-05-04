@@ -25,7 +25,7 @@ body {
     padding: 4px;
     margin: 3px;
     color: white;
-    font-size: 15px;
+    font-size: 20px;
 }
 .li-navbar:hover {
     background-color: grey;
@@ -39,6 +39,8 @@ body {
 
 .container-content{
     background-color: white;
+    font-size: 25px;
+    text-align:center;
     color: black;
     display: flex;
     justify-content: center;
@@ -50,6 +52,7 @@ body {
 .a-content{
 
     font-size: 15px;
+    font-weight: bold;
     background-color: white ;
     display: flex;
     justify-content: space-evenly;
@@ -57,7 +60,7 @@ body {
     text-decoration: none;
     flex-direction: column;
     color: black;
-    font-family: lobster, cursive;
+    font-family: courier;
     padding: 14px;
     margin: 13px;
 }
@@ -68,6 +71,7 @@ body {
 
 .li-content{
     font-size: 15px;
+    font-weight: bold;
     background-color: white ;
     display: flex;
     justify-content: space-evenly;
@@ -75,7 +79,7 @@ body {
     text-decoration: none;
     flex-direction: column;
     color: grey;
-    font-family: lobster, cursive;
+    font-family: courier;
     padding: 14px;
     margin: 13px;
 }
