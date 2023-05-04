@@ -74,11 +74,10 @@ body {
     font-weight: bold;
     background-color: white ;
     display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-    text-decoration: none;
+    text-align: justify;
+    align-items: left;
     flex-direction: column;
-    color: grey;
+    color: black;
     font-family: courier;
     padding: 14px;
     margin: 13px;
